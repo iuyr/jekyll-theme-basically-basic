@@ -1,21 +1,21 @@
 # Theme Skin
-skin: default # default, night, plum, sea, soft, steel
+skin: sea # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
-  skip_links: "Skip links"
-  skip_primary_nav: "Skip to primary navigation"
-  skip_content: "Skip to content"
-  skip_footer: "Skip to footer"
-  menu: "Menu"
-  home: "Home"
-  newer: "Newer"
-  older: "Older"
-  email: "Email"
-  subscribe: "Subscribe"
+  skip_links: "跳过链接"
+  skip_primary_nav: "跳转到主导航"
+  skip_content: "跳至内容"
+  skip_footer: "跳到页脚"
+  menu: "菜单"
+  home: "主页"
+  newer: "新的"
+  older: "旧的"
+  email: "邮箱"
+  subscribe: "订阅"
   read_more: "Read More"
-  posts: "Posts"
-  page: "Page"
+  posts: "帖子"
+  page: "页面"
   of: "of"
   min_read: "min read"
   present: "Present"
