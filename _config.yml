@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang: en-US
-title: My Awesome Site
+lang: zh-CN
+title: 流殇君'blog
 email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   twitter:
   picture:
 twitter_username:
-github_username:
+github_username: iuyr
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 
 # Build settings
