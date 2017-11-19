@@ -1,4 +1,3 @@
 ---
-title: fenlei
 layout: fenlei
 ---
