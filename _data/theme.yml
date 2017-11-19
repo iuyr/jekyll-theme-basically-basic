@@ -9,6 +9,7 @@ t:
   skip_footer: "跳到页脚"
   menu: "菜单"
   home: "主页"
+  fenlei: "分类"
   newer: "新的"
   older: "旧的"
   email: "邮箱"
@@ -32,3 +33,4 @@ google_fonts:
 navigation_pages:
   - about.md
   - cv.md
+  - fenlei.md
